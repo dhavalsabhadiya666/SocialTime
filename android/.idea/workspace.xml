@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da7056b3-216d-4729-b801-ec618a32ac3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/custom_widget/video_preview.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/../.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/../.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_MasayukiSuda_Mp4Composer_android_v0_3_9_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-1031339018/android.firebase_core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-1031339018/android.firebase_core.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-1050404757/android.firebase_messaging.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-1050404757/android.firebase_messaging.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-1217482406/android.tapioca.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-140790047/android.external_path.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-140790047/android.external_path.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-1597664907/android.video_thumbnail.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-1597664907/android.video_thumbnail.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-1749934295/android.flutter_facebook_auth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-1749934295/android.flutter_facebook_auth.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-1919831266/android.video_player.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-1919831266/android.video_player.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-455313789/android.fluttertoast.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-455313789/android.fluttertoast.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-585235030/android.a_flutter_amap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-585235030/android.a_flutter_amap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-615294707/android.permission_handler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-615294707/android.permission_handler.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-897604544/android.flutter_plugin_android_lifecycle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-897604544/android.flutter_plugin_android_lifecycle.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/1019826063/android.image_picker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/1019826063/android.image_picker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/1049397868/android.firebase_auth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/1049397868/android.firebase_auth.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/106725957/android.geocoding.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/106725957/android.geocoding.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/1112454149/android.url_launcher_android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/1112454149/android.url_launcher_android.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/1314584083/android.google_sign_in.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/1314584083/android.google_sign_in.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/1364067613/android.open_file.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/1364067613/android.open_file.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/1388982020/android.camera.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/1388982020/android.camera.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/1539279746/android.flutter_local_notifications.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/1539279746/android.flutter_local_notifications.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/1701675710/android.flutter_pdfview.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/1701675710/android.flutter_pdfview.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/2048881077/android.gallery_saver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/2048881077/android.gallery_saver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/2069604525/android.path_provider_android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/2069604525/android.path_provider_android.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/233286142/android.file_picker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/233286142/android.file_picker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/496946818/android.geolocator_android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/496946818/android.geolocator_android.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/897943873/android.shared_preferences_android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/897943873/android.shared_preferences_android.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/944509392/android.map_launcher.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/944509392/android.map_launcher.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/custom_widget/amap_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/custom_widget/amap_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/screen/home/member_profile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/screen/home/member_profile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/screen/me/fill_application_detail.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/screen/me/fill_application_detail.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/screen/me/post_video.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/screen/me/post_video.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/screen/pin/location_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/screen/pin/location_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/screen/video/camera_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/screen/video/camera_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/screen/video/preview_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/screen/video/preview_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/imac/.android/avd/Pixel_4_API_29.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="24u690OLsld3Sm8dVCoZwfiuVhN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1644468062408" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="android.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da7056b3-216d-4729-b801-ec618a32ac3a" name="Default Changelist" comment="" />
+      <created>1644467969714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644467969714</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

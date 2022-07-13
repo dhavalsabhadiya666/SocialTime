@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "949921740275",
+    "project_id": "pinmetar-8debd",
+    "storage_bucket": "pinmetar-8debd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949921740275:android:a804a1bc109d630d9a4e86",
+        "android_client_info": {
+          "package_name": "com.pinmetar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949921740275-ls48i3u39fe6rh4q78lje6mhj55fvk3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pinmetar",
+            "certificate_hash": "a0152825ee84ba29af0d5f7326c91b9c099de0e4"
+          }
+        },
+        {
+          "client_id": "949921740275-s65sfq1c1rt77ldf1nbjn2o0skpv9pf3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pinmetar",
+            "certificate_hash": "d5ad49d29fae01534791fb0ebe63fb61fd4c2b42"
+          }
+        },
+        {
+          "client_id": "949921740275-96eiqljocj2jfmhtp69kgi9c1l88e5bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJqbOJzx7p20zyn8a67M5mQJjn6PPukcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949921740275-96eiqljocj2jfmhtp69kgi9c1l88e5bh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "949921740275-e6voh6r61t7of001skkd4flvj20mdd8o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pinmetar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
